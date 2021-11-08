@@ -10,4 +10,12 @@
 
 ## Install Module
 
+   git clone https://github.com/R-203/Module-my-script
+
+## Run Script
+
+   * git clone https://github.com/R-203/engkripsi-v1
+   * python2 crypt.py
+
+Semoga membantu
   
